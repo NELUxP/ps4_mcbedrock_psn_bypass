@@ -15,6 +15,19 @@
         <PatchList>
             <Line Type="bytes" Address="0xB3D356C" Value="C6435001C70302000000E94596C2F7"/>
             <Line Type="bytes" Address="0x2FFCBBA" Value="E9AD693D0890"/>
+            <Line Type="bytes" Address="0x300DC25" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFDFAC" Value="31C0"/>
+            <Line Type="bytes" Address="0x300D2CE" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFE22F" Value="31C0"/>
+            <Line Type="bytes" Address="0x300d522" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFD4C5" Value="31C0"/>
+            <Line Type="bytes" Address="0x300DA0B" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFC7AF" Value="31C0"/>
+            <Line Type="bytes" Address="0x300DC25" Value="31C0"/>
+            <Line Type="bytes" Address="0x300DE67" Value="31C0"/>
+            <Line Type="bytes" Address="0x2A9A0D7" Value="0F95"/>            
+            <Line Type="bytes" Address="0x2A9A31A" Value="31C0"/>
+            <Line Type="bytes" Address="0x6B5DE0" Value="B801"/>
         </PatchList>
     </Metadata>
 </Patch>
