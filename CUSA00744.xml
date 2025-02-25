@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File generated from: /home/runner/work/GoldHEN_Patch_Repository/GoldHEN_Patch_Repository/patches/xml/Driveclub-Orbis.xml @ 2023-11-29 04:29:38 Wednesday (UTC +0000) -->
+<Patch>
+    <TitleID>
+        <ID>CUSA00265</ID>
+        <ID>CUSA00744</ID>
+    </TitleID>
+    <Metadata Title="Minecraft"
+              Name="Microsoft Bypass for Multiplayer"
+              Note="beta test"
+              Author="NELUxP MoDz"
+              PatchVer="1.0"
+              AppVer="03.00"
+              AppElf="eboot.bin">
+        <PatchList>
+            <Line Type="bytes" Address="0xB3D356C" Value="C6435001C70302000000E94596C2F7"/>
+            <Line Type="bytes" Address="0x2FFCBBA" Value="E9AD693D0890"/>
+            <Line Type="bytes" Address="0x300DC25" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFDFAC" Value="31C0"/>
+            <Line Type="bytes" Address="0x300D2CE" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFE22F" Value="31C0"/>
+            <Line Type="bytes" Address="0x300d522" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFD4C5" Value="31C0"/>
+            <Line Type="bytes" Address="0x300DA0B" Value="31C0"/>
+            <Line Type="bytes" Address="0x2FFC7AF" Value="31C0"/>
+            <Line Type="bytes" Address="0x300DC25" Value="31C0"/>
+            <Line Type="bytes" Address="0x300DE67" Value="31C0"/>
+            <Line Type="bytes" Address="0x2A9A0D7" Value="0F95"/>            
+            <Line Type="bytes" Address="0x2A9A31A" Value="31C0"/>
+            <Line Type="bytes" Address="0x6B5DE0" Value="B801"/>
+        </PatchList>
+    </Metadata>
+</Patch>
